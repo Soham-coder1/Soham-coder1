@@ -16,7 +16,6 @@
 - 🌱 Currently building: RFM segmentation, A/B testing, and classification/clustering projects to round out my ML portfolio
 - 💬 Ask me about EDA, cohort analysis, RFM segmentation, or Power BI dashboard design
 - 📫 Reach me: sohombhunia45@gmail.com
-- 📄 [Download my Resume](your-resume-link)
 
 ---
 
