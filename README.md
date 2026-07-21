@@ -87,6 +87,20 @@
 </a>
 </p>
 
+## 💬 Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Soham-coder1&label=Profile%20Views&color=0e75b6"/>
+</p>
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:2C5364&height=120&section=footer"/>
+</p>
+
+
 ### 📊 GitHub Stats
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Soham-coder1&show_icons=true&theme=default" />
