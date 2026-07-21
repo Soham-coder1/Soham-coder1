@@ -99,12 +99,8 @@
 ## 📊 GitHub Status
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Soham-coder1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-coder1&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Soham-coder1&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Soham-coder1&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-coder1&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -113,8 +109,6 @@
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-coder1&theme=tokyonight"/>
-</p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-coder1" />
 </p>
 
 ---
