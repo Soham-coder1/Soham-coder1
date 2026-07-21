@@ -64,6 +64,29 @@
 | [IPL Data Analysis](https://github.com/Soham-coder1/IPL_data-_analysis) | Power BI dashboard + analytics report on IPL match, player, and team performance trends | Python, Power BI |
 
 ---
+## 🌐 Social
+
+<p align="center">
+<a href="https://www.facebook.com/YOUR_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/_.angshu._o7/?__pwa=1#" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/soham-bhunia-4098a7283" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://x.com/home" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="mailto:sohombhunia45@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 ### 📊 GitHub Stats
 <p align="center">
