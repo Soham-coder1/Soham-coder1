@@ -8,14 +8,15 @@
 ---
 
 ### 🚀 About Me
-- 📊 **Data Analyst** — 6 end-to-end analytics projects across retail, banking, healthcare & energy
-- 💰 Quantified $73.94/mo in MRR leakage and $2K+ in CLTV loss on an OTT churn analysis, driving targeted retention strategy
-- 📈 Built a Power BI dashboard analyzing ₹4.78L in sales across 1,653 orders — uncovered a 20.69% vs. 7–8% regional performance gap
-- 💼 Front-End Development Intern @ **IBM** (PBEL Program) | Completed **Deloitte Australia** Data Analytics Job Simulation (Forage)
-- 🎓 BCA Graduate — CGPA 8.38/10, Brainware University (2026) | **Available immediately**
-- 🛠️ Python (Pandas, NumPy, scikit-learn) · SQL · Power BI (DAX) · Tableau · Advanced Excel
-- 💬 Ask me about EDA, cohort analysis, RFM segmentation, or dashboard storytelling
-- 📫 sohombhunia45@gmail.com · 📄 [Resume](your-resume-link) · 🔗 [LinkedIn](https://www.linkedin.com/in/soham-bhunia-4098a7283)
+- 🎓 BCA Graduate (CGPA 8.38/10, Brainware University, 2026) | Data Analyst / BI Analyst — *available immediately*
+- 📊 Delivered end-to-end analytics projects across retail, banking, healthcare, and energy domains using Python, SQL, and Power BI
+- 💼 Front-End Development Intern at *IBM* (PBEL Program) — HTML, CSS, JavaScript
+- 🏆 Completed the *Deloitte Australia Data Analytics Job Simulation* (Forage) — Tableau dashboards, Excel-based business analysis
+- 🔧 Core toolkit: Python (Pandas, NumPy, scikit-learn) · SQL (MySQL) · Power BI (DAX) · Tableau · Advanced Excel
+- 🌱 Currently building: RFM segmentation, A/B testing, and classification/clustering projects to round out my ML portfolio
+- 💬 Ask me about EDA, cohort analysis, RFM segmentation, or Power BI dashboard design
+- 📫 Reach me: sohombhunia45@gmail.com
+- 📄 [Download my Resume](your-resume-link)
 
 ---
 
