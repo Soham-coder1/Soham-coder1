@@ -30,12 +30,16 @@
 
 **BI & Visualization**
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
 
 **Machine Learning**
 ![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Regression](https://img.shields.io/badge/-Regression-4B8BBE?style=flat-square)
+![Classification](https://img.shields.io/badge/-Classification-4B8BBE?style=flat-square)
+![K--Means Clustering](https://img.shields.io/badge/-K--Means%20Clustering-4B8BBE?style=flat-square)
 
 **Dev & Collaboration**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
