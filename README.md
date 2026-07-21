@@ -88,25 +88,32 @@
 </p>
 
 ## 💬 Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+## 💬 Quote
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Soham-coder1&label=Profile%20Views&color=0e75b6"/>
-</p>
-
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:2C5364&height=120&section=footer"/>
+<i>"Nothing will work unless you do."</i><br>
+<b>— Maya Angelou</b>
 </p>
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Status
+
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Soham-coder1&show_icons=true&theme=default" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-coder1&layout=compact" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Soham-coder1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-coder1&layout=compact&theme=tokyonight"/>
 </p>
+
 <p align="center">
+<img src="https://streak-stats.demolab.com?user=Soham-coder1&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham-coder1&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-coder1&theme=tokyonight"/>
+</p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-coder1" />
 </p>
 
