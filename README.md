@@ -51,9 +51,12 @@
 ### 📌 Featured Projects
 | Project | Description | Tech |
 |---|---|---|
-| [Customer Shopping Behavior Analysis](https://github.com/Soham-coder1/customer_behaviour_analysis) | End-to-end analysis of customer shopping behavior using Python and SQL, with a Power BI dashboard summarizing key patterns | Python, SQL, Power BI |
+| [Churn & Revenue Impact Analysis](https://github.com/Soham-coder1/customer_churn-_analysis) | Designed an end-to-end churn analytics solution for an OTT subscription dataset; identified a 28.6% churn rate (6.7× higher for monthly vs. annual subscribers) and quantified $73.94/mo MRR leakage + $2,047 CLTV loss | Python, SQL |
 | [Regional Sales Performance Analytics](https://github.com/Soham-coder1/Sales_Analysis) | Multi-year sales dataset (orders, returns, targets) modeled into a Power BI dashboard tracking regional performance | Power BI, DAX |
+| [Customer Shopping Behavior Analysis](https://github.com/Soham-coder1/customer_behaviour_analysis) | End-to-end analysis of customer shopping behavior using Python and SQL, with a Power BI dashboard summarizing key patterns | Python, SQL, Power BI |
+| [COVID-19 Data Analysis](https://github.com/Soham-coder1/covid_19_analysis) | Analyzed COVID-19 case/death/recovery trends across regions, identifying peak infection waves and mortality rate patterns | Python, Pandas, Matplotlib/Seaborn |
 | [IPL Data Analysis](https://github.com/Soham-coder1/IPL_data-_analysis) | Analyzed IPL match, player, and team data; built a Power BI dashboard and analytics report on performance trends | Python, Power BI |
+
 
 ---
 
