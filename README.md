@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | Business Intelligence Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Turning+raw+data+into+business+insights;Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines= Turning+raw+data+into+business+insights; Python+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
