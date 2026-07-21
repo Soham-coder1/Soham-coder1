@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Soham Bhunia</h1>
-<h3 align="center">Data Analyst | Business Intelligence Enthusiast</h3>
+<h3 align="center">Data Analyst | Business Intelligence & Analytics</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&width=600&lines=Turning+raw+data+into+business+insights%3BPython+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning%3BAlways+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&width=600&lines=Turning+raw+data+into+business+insights%3BPython+%7C+SQL+%7C+Power+BI+%7C+Machine+Learning%3BAvailable+immediately+for+Data+Analyst+roles" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 BCA Graduate (CGPA 8.38/10, Brainware University, 2026) | Data Analyst / BI Analyst — **available immediately**
-- 📊 Delivered end-to-end analytics projects across retail, banking, healthcare, and energy domains using Python, SQL, and Power BI
-- 💼 Front-End Development Intern at **IBM** (PBEL Program) — HTML, CSS, JavaScript
-- 🏆 Completed the **Deloitte Australia Data Analytics Job Simulation** (Forage) — Tableau dashboards, Excel-based business analysis
-- 🔧 Core toolkit: Python (Pandas, NumPy, scikit-learn) · SQL (MySQL) · Power BI (DAX) · Tableau · Advanced Excel
-- 🌱 Currently building: RFM segmentation, A/B testing, and classification/clustering projects to round out my ML portfolio
-- 💬 Ask me about EDA, cohort analysis, RFM segmentation, or Power BI dashboard design
-- 📫 Reach me: sohombhunia45@gmail.com
-- 📄 [Download my Resume](your-resume-link)
+- 📊 **Data Analyst** — 6 end-to-end analytics projects across retail, banking, healthcare & energy
+- 💰 Quantified $73.94/mo in MRR leakage and $2K+ in CLTV loss on an OTT churn analysis, driving targeted retention strategy
+- 📈 Built a Power BI dashboard analyzing ₹4.78L in sales across 1,653 orders — uncovered a 20.69% vs. 7–8% regional performance gap
+- 💼 Front-End Development Intern @ **IBM** (PBEL Program) | Completed **Deloitte Australia** Data Analytics Job Simulation (Forage)
+- 🎓 BCA Graduate — CGPA 8.38/10, Brainware University (2026) | **Available immediately**
+- 🛠️ Python (Pandas, NumPy, scikit-learn) · SQL · Power BI (DAX) · Tableau · Advanced Excel
+- 💬 Ask me about EDA, cohort analysis, RFM segmentation, or dashboard storytelling
+- 📫 sohombhunia45@gmail.com · 📄 [Resume](your-resume-link) · 🔗 [LinkedIn](https://www.linkedin.com/in/soham-bhunia-4098a7283)
 
 ---
 
@@ -48,19 +47,18 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Core Competencies:** Joins · Window Functions (RANK/LAG/LEAD) · CTEs & Subqueries · DAX & Data Modeling · ETL Pipelines · EDA · Cohort Analysis · RFM Segmentation · A/B Testing · Statistical Analysis · Feature Engineering · Regression · Classification · K-Means Clustering · Model Evaluation
+**Core Competencies:** Joins · Window Functions (RANK/LAG/LEAD) · CTEs & Subqueries · DAX & Data Modeling · ETL Pipelines · EDA · Cohort Analysis · RFM Segmentation · A/B Testing · Statistical Analysis · Feature Engineering · Model Evaluation
 
 ---
 
 ### 📌 Featured Projects
-| Project | Description | Tech |
+| Project | Impact | Tech |
 |---|---|---|
-| [Churn & Revenue Impact Analysis](https://github.com/Soham-coder1/customer_churn-_analysis) | Designed an end-to-end churn analytics solution for an OTT subscription dataset; identified a 28.6% churn rate (6.7× higher for monthly vs. annual subscribers) and quantified $73.94/mo MRR leakage + $2,047 CLTV loss | Python, SQL |
-| [Regional Sales Performance Analytics](https://github.com/Soham-coder1/Sales_Analysis) | Multi-year sales dataset (orders, returns, targets) modeled into a Power BI dashboard tracking regional performance | Power BI, DAX |
-| [Customer Shopping Behavior Analysis](https://github.com/Soham-coder1/customer_behaviour_analysis) | End-to-end analysis of customer shopping behavior using Python and SQL, with a Power BI dashboard summarizing key patterns | Python, SQL, Power BI |
-| [COVID-19 Data Analysis](https://github.com/Soham-coder1/covid_19_analysis) | Analyzed COVID-19 case/death/recovery trends across regions, identifying peak infection waves and mortality rate patterns | Python, Pandas, Matplotlib/Seaborn |
-| [IPL Data Analysis](https://github.com/Soham-coder1/IPL_data-_analysis) | Analyzed IPL match, player, and team data; built a Power BI dashboard and analytics report on performance trends | Python, Power BI |
-
+| [Churn & Revenue Impact Analysis](https://github.com/Soham-coder1/customer_churn-_analysis) | 28.6% churn rate identified — monthly subscribers churn **6.7× more** than annual. Quantified **$73.94/mo MRR leakage** + **$2,047 CLTV loss** across 6 high-risk accounts | Python, SQL |
+| [Regional Sales Performance Dashboard](https://github.com/Soham-coder1/Sales_Analysis) | 3-page Power BI dashboard across **1,653 orders / ₹4.78L sales**. Flagged Central region's **20.69% vs. 7–8%** target achievement gap | Power BI, DAX |
+| [Real-Time Customer Shopping Behaviour Analysis](https://github.com/Soham-coder1/customer_behaviour_analysis) | Cleaned **10,000+ transactions**, applied segmentation to drive 3 marketing recommendations via an interactive Power BI dashboard | Python, SQL, Power BI |
+| [COVID-19 Global Trends Analysis](https://github.com/Soham-coder1/covid_19_analysis) | Power BI dashboard on 2020–2021 global case/death/recovery data — identified peak infection waves and mortality patterns | Power BI, Excel |
+| [IPL Data Analysis](https://github.com/Soham-coder1/IPL_data-_analysis) | Power BI dashboard + analytics report on IPL match, player, and team performance trends | Python, Power BI |
 
 ---
 
@@ -76,6 +74,6 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/soham-bhunia-4098a7283)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-bhunia-4098a7283)
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Soham-coder1&color=blue" alt="visitor badge"/></p>
