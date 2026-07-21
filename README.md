@@ -90,7 +90,7 @@
 ## 💬 Quote
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&pause=2000&color=FACC15&center=true&vCenter=true&width=900&lines=❝+Nothing+will+work+unless+you+do.+❞;—+Maya+Angelou"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=2000&color=00C9FF&center=true&vCenter=true&width=1000&lines=Nothing+will+work+unless+you+do.;Success+comes+from+consistent+effort.;-+Maya+Angelou" alt="Typing SVG" />
 </p>
 
 <p align="center">
