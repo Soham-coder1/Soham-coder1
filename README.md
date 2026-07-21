@@ -88,27 +88,21 @@
 </p>
 
 ## 💬 Quote
-## 💬 Quote
 
 <p align="center">
-<i>"Nothing will work unless you do."</i><br>
-<b>— Maya Angelou</b>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&pause=2000&color=FACC15&center=true&vCenter=true&width=900&lines=❝+Nothing+will+work+unless+you+do.+❞;—+Maya+Angelou"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Believe-Work_Hard-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Never-Stop_Learning-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Keep-Building-orange?style=for-the-badge"/>
 </p>
 
 
 ## 📊 GitHub Status
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Soham-coder1&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soham-coder1&layout=compact&theme=tokyonight" />
-</p>
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soham-coder1&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soham-coder1&theme=tokyonight"/>
 </p>
 
 ---
