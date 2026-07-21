@@ -8,10 +8,13 @@
 ---
 
 ### 🚀 About Me
-- 🎓 BCA Graduate | Aspiring Data Analyst / BI Analyst
-- 🔭 Currently building end-to-end analytics projects across healthcare, banking, and energy domains
-- 🌱 Learning advanced SQL, cloud data warehousing, and MLOps fundamentals
-- 💬 Ask me about EDA, RFM segmentation, cohort analysis, or dashboard design
+- 🎓 BCA Graduate (CGPA 8.38/10, Brainware University, 2026) | Data Analyst / BI Analyst — **available immediately**
+- 📊 Delivered end-to-end analytics projects across retail, banking, healthcare, and energy domains using Python, SQL, and Power BI
+- 💼 Front-End Development Intern at **IBM** (PBEL Program) — HTML, CSS, JavaScript
+- 🏆 Completed the **Deloitte Australia Data Analytics Job Simulation** (Forage) — Tableau dashboards, Excel-based business analysis
+- 🔧 Core toolkit: Python (Pandas, NumPy, scikit-learn) · SQL (MySQL) · Power BI (DAX) · Tableau · Advanced Excel
+- 🌱 Currently building: RFM segmentation, A/B testing, and classification/clustering projects to round out my ML portfolio
+- 💬 Ask me about EDA, cohort analysis, RFM segmentation, or Power BI dashboard design
 - 📫 Reach me: sohombhunia45@gmail.com
 - 📄 [Download my Resume](your-resume-link)
 
