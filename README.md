@@ -48,7 +48,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Core Competencies:** Joins · Window Functions (RANK/LAG/LEAD) · CTEs & Subqueries · DAX & Data Modeling · ETL Pipelines · EDA · Cohort Analysis · RFM Segmentation · A/B Testing · Statistical Analysis · Feature Engineering · Model Evaluation
 
