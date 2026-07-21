@@ -72,7 +72,7 @@
 
 ------
 
-## 🌐 Social
+## 🌐 Social & Connect With Me
 
 <p align="center">
 <a href="https://www.facebook.com/share/1CMkaxALTV/" target="_blank">
@@ -115,8 +115,4 @@
 </p>
 
 ---
-
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-bhunia-4098a7283)
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Soham-coder1&color=blue" alt="visitor badge"/></p>
