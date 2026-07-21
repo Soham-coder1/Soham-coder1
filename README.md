@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soham Bhunia</h1>
+<h1 align="center">Hey , I'm Soham Bhunia</h1>
 <h3 align="center">Data Analyst | Business Intelligence & Analytics</h3>
 
 <p align="center">
@@ -62,7 +62,16 @@
 | [COVID-19 Global Trends Analysis](https://github.com/Soham-coder1/covid_19_analysis) | Power BI dashboard on 2020–2021 global case/death/recovery data — identified peak infection waves and mortality patterns | Power BI, Excel |
 | [IPL Data Analysis](https://github.com/Soham-coder1/IPL_data-_analysis) | Power BI dashboard + analytics report on IPL match, player, and team performance trends | Python, Power BI |
 
+
 ---
+## ⚡ Fun Facts
+- 📊 I enjoy transforming messy datasets into meaningful insights.
+- 📚 Always learning new analytics and machine learning techniques.
+- ☕ Coffee + SQL = Productivity.
+- 🌍 Open to Remote and Relocation opportunities.
+
+------
+
 ## 🌐 Social
 
 <p align="center">
